@@ -4,3 +4,5 @@ What was i experience in different interview campus , what i feeling ,what i hav
 # UNIx command
 
 https://github.com/ankitAMD/Interview-_Journey-/blob/master/ankitunix.pdf
+
+https://github.com/ankitAMD/Interview-_Journey-/blob/master/linux%20command1.jpeg
