@@ -1,5 +1,5 @@
 # Interview_Journey
-What was i experience in different interview campus , what i feeling ,what i have to chanage .
+some of them i attended the interview and some of not. But it was the list that companies are coming in our campus.
 
 # UNIx command
 
