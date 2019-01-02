@@ -57,7 +57,22 @@
                                                         10           (10 <9:False)                        
                                                         1+0=1         (1<9 :True)
                                                         
-                                                output: 1  (#print1)               output :    4    (#print4)                                               
+                                                output: 1  (#print1)               output :    4    (#print4)     
+                                                
+                                                6.    Write a program to string pattern matching AND REPLACE the word And print like this:
+                                                      
+                                                      Statemnt : MY NAME IS ANKIT GUPTA
+                                                      Enter the word removed (x):  GUPTA
+                                                      Enter the word replaced (y):  TIWARI
+                                                      THE NEW STATEMENT IS : MY NAME IS ANKIT TIWARI.
+                                                      
+                                                7.    Write a program to reverse singly linked list without using any collection or framework 
+                                                      on java . 
+                                                8.    Write a proram to removed duplicate elenents using linked list Without any collection
+                                                      or framework on java.
+                                                9.    write a program on thread (not remembered ). 
+                                                
+               
 
 This is to inform you that  Acezd Consultancy Services Pvt. Ltd. shall conduct pool campus recruitment drive for the students of MCA & B.Tech. (CSE) 2019 passing out batch. Please find the other related details of the drive.
 
