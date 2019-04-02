@@ -1,1 +1,138 @@
 
+Technical questions:
+
+1....................
+
+1
+2*2                                                                                                                             
+3*3*3                                                                                                                           
+4*4*4*4                                                                                                                         
+4*4*4*4                                                                                                                         
+3*3*3                                                                                                                           
+2*2                                                                                                                             
+1   
+
+#include <iostream>
+
+using namespace std;
+int i;
+void pattern(int n)
+{
+    for(int i=1;i<n;i++)
+    {
+        cout<<i;
+        for(int j=i;j>1;j--)
+        {
+            cout<<"*"<<i;
+        }
+    cout<<endl;   
+    }
+    
+   for(int k=n-1;k>0;k--)
+    {
+        cout<<k;
+        for(int r=k;r>1;r--)
+        {
+            cout<<"*"<<k;
+        }
+    cout<<endl;    
+    }
+}
+
+
+int main()
+{
+    pattern(5);
+
+    return 0;
+    
+}
+
+
+
+
+#include <iostream>
+
+using namespace std;
+int i;
+void pattern(int n)
+{
+    for(int i=1;i<n;i++)
+    {
+        cout<<i;
+        for(int j=i;j>1;j--)
+        {
+            cout<<"*"<<i;
+        }
+    cout<<endl;   
+    }
+    
+   for(int k=n-1;k>0;k--)
+    {
+        cout<<k;
+        for(int r=k;r>1;r--)
+        {
+            cout<<"*"<<k;
+        }
+    cout<<endl;    
+    }
+}
+
+
+int main()
+{
+    pattern(5);
+
+    return 0;
+    
+}
+
+
+
+2....................
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dear Students,
+
+Greetings from MMDU, Mullana - Ambala!
+
+With Reference to your interest to participate in M/S Robert Bosch Pool campus drive at our university, You have been shortlisted to take part in process, Congratulations!
+
+Please go through below Instructions Carefully.
+
+Dates of Interview: 
+
+    1st of April 2019 Monday, Will be online test at our university. Reporting Time is at 9:00 AM.
+    11th Of April 2019 All the shortlisted students need to visit the university to attend video interview. Reporting time will be communicated shortly.
+    12th of April 2019, All the shortlisted students need to visit the university for further rounds of Face to face interviews.
+
+Important Note:
+
+    Any Communication need to be done kindly get in touch with our Placement team.
+    College ID card is must at the time of online test else students will not be allowed to take up the test.
+
+
+DATE :- 1st April,2019
+
+VENUE :- B.Tech Seminar Hall (Old Engg Block-1)
+
+Reporting Time :- 9:00 AM
+
+
+
+Image result for mm mullana logo
+(NAAC Accredited Grade ‘A’ University)  
+Warm Regards,
+Training & Placement Department
+Maharishi Markandeshwar (Deemed to be University) Mullana, Am
