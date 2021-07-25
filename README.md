@@ -1,5 +1,5 @@
 # Interview_Journey
-some of them i attended the interview and some of not. But it was the list that companies are coming in our campus.
+I attended some of the interview not all.This list of companies was visited in my college campus.
 
 # UNIx command
 
